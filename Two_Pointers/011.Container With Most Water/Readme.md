@@ -4,4 +4,4 @@
 
     移動指針時, 因寬度縮短, 需移動長度較短的板子才可能使面積變大, 因面積受限於較短的板子。
 
-    [Leetcode Link](https://leetcode.com/problems/container-with-most-water)
+[Leetcode problem](https://leetcode.com/problems/container-with-most-water)
